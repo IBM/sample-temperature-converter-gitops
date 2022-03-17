@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: manojjahgirdar/automate-openshift-deployment:v1.0
+  repository: manojjahgirdar/automate-openshift-deployment
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
