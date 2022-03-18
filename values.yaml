@@ -8,7 +8,7 @@ fullnameOverride: ''
 image:
   pullPolicy: Always
   repository: manojjahgirdar/automate-openshift-deployment
-  tag: latest
+  tag: '2.1'
 imagePullSecrets: []
 ingress:
   annotations: {}
